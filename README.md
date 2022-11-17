@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello+&font=Lobster&size=50&height=80)](https://git.io/typing-svg)
 
-<!-- <div align= "center"> -->
+<div align= "center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🔥🧑🏻‍💻📱🔥&fontAlign=70)
   
@@ -62,4 +62,4 @@
 
 </div>
     
-<!-- </div> -->
+</div>
