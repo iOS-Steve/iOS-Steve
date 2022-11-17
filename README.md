@@ -12,18 +12,17 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🔥🧑🏻‍💻📱🔥&fontAlign=70)
   
----
+<br>
+<br>
 
-**Skill 💻**
+### **Skill 💻**
 
 |WEB 🖥|APP 📱|ETC 🛠️|
 |:--:|:--:|:--:|
 |<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>|<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>|<a href="#" target="_blank"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
 |<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>||<img src="https://img.shields.io/badge/Figma-0c0e12?style=flat-square&logo=figma&logoColor=white"/>|
-  
-<br>
 
-**Interested Stack 🧐**
+### **Interested Stack 🧐**
   
 |WEB & APP|Game |
 |:--:|:--:|
