@@ -54,7 +54,7 @@
 
 <div align = 'left'>
   
-**Contact 🤙**
+### **Contact 🤙**
 
 |Mail 📨|Instagram ⭐️|
 |:--:|:--:|
