@@ -1,16 +1,16 @@
-# **Hello, iOS **
-```Swift
-print("Hello, I'm Steve!")
-```
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🔥🧑🏻‍💻📱🔥&fontAlign=70)
 
->My goal is to bring ***convenience*** and ***fun*** for our customers' daily lives through my applications.
----
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FiOS-Steve&count_bg=%2379C83D&title_bg=%2312151A&icon=github.svg&icon_color=%23FFFFFF&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
+
+![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=iOS-Steve&show_icons=true&bg_color=100f19&theme=radical)
+
 ## **Tech Stacks 📚**
 
-|WEB 🖥|APP 📱|
-|:--:|:--:|
-|<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>|<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>|
-|<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>|
+|WEB 🖥|APP 📱|ETC 🛠️|
+|:--:|:--:|:--:|
+|<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>|<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>|<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
+|<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>||<img src="https://img.shields.io/badge/Figma-0c0e12?style=flat-square&logo=figma&logoColor=white"/>|
+
 
 ## **Interested Stacks 🧐**
 
