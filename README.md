@@ -1,7 +1,5 @@
 <div align="right">
   
-[![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=iOS-Steve)](https://github.com/iOS-Steve/github-readme-stats)
-  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FiOS-Steve&count_bg=%2379C83D&title_bg=%2312151A&icon=github.svg&icon_color=%23FFFFFF&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
   
 </div>
@@ -41,6 +39,8 @@
 <br>
   
 ![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=iOS-Steve&show_icons=true&bg_color=100f19&theme=radical)　[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iOS-Steve&theme=tokyonight)](https://git.io/streak-stats)
+
+![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=iOS-Steve&count_private=true)
   
 <br>
   
