@@ -8,8 +8,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello+&font=Lobster&size=50&height=80)](https://git.io/typing-svg)
 
-<!-- <div align= "center"> -->
-  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🔥🧑🏻‍💻📱🔥&fontAlign=70)
   
 <br>
@@ -61,5 +59,4 @@
 |iosdeveloper.steve@gmail.com|[@ios.steve](https://www.instagram.com/ios.steve/?hl=ko)|
 
 </div>
-    
-<!-- </div> -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iOS-Steve)](https://github.com/anuraghazra/github-readme-stats)
