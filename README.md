@@ -38,9 +38,7 @@
  
 <br>
   
-![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=iOS-Steve&show_icons=true&bg_color=100f19&theme=radical)　[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iOS-Steve&theme=tokyonight)](https://git.io/streak-stats)
-
-![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=iOS-Steve&count_private=true)
+![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=iOS-Steve&show_icons=true&bg_color=100f19&theme=radical&count-private=true)　[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iOS-Steve&theme=tokyonight)](https://git.io/streak-stats)
   
 <br>
   
