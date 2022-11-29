@@ -31,14 +31,15 @@
 <br>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iOS-Steve&layout=compact)](https://github.com/iOS-Steve/github-readme-stats)
-  
-<br>
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=iOS-Steve&theme=flat&column=7)](https://github.com/iOS-Steve/) 
  
 <br>
   
-![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=iOS-Steve&count-private=true&show_icons=true&bg_color=100f19&theme=radical)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iOS-Steve&theme=tokyonight)](https://git.io/streak-stats)
+![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=iOS-Steve&count-private=true&show_icons=true&bg_color=100f19&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iOS-Steve&theme=tokyonight)](https://git.io/streak-stats)
+
+<br>
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=iOS-Steve&theme=flat&column=7)](https://github.com/iOS-Steve/) 
   
 <br>
   
