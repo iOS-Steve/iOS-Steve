@@ -47,7 +47,7 @@
   
 <br>
   
-[![Steve's github activity graph](https://activity-graph.herokuapp.com/graph?username=iOS-Steve&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Steve's github activity graph](https://activity-graph.herokuapp.com/graph?username=iOS-Steve&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 <br>
 
