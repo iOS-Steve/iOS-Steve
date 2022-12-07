@@ -46,8 +46,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=iOS-Steve&theme=flat&column=7)](https://github.com/iOS-Steve/) 
   
 <br>
-  
-[![Steve's github activity graph](https://activity-graph.herokuapp.com/graph?username=iOS-Steve&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Steve's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iOS-Steve&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 <br>
 
