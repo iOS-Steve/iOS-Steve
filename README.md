@@ -27,10 +27,6 @@
 |<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>|<img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=unrealEngine&logoColor=white"/>|
 |<img src="https://img.shields.io/badge/React Native-222222?style=flat-square&logo=react&logoColor=white"/>|
 |<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  
-<br>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iOS-Steve&layout=compact)](https://github.com/iOS-Steve/github-readme-stats)
  
 <br>
 
