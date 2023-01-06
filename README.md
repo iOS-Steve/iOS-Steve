@@ -57,6 +57,6 @@
 
 |Mail 📨|Instagram ⭐️|
 |:--:|:--:|
-|iosdeveloper.steve@gmail.comm|[@ios.steve](https://www.instagram.com/ios.steve/?hl=ko)|
+|iosdeveloper.steve@gmail.com|[@ios.steve](https://www.instagram.com/ios.steve/?hl=ko)|
 
 </div>
